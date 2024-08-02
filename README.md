@@ -6,3 +6,5 @@ I used the discussion (https://sourceforge.net/p/sevenzip/discussion/45797/) ann
 
 [7-Zip Homepage](https://www.7-zip.org/)
 [7-Zip @ sf.net](https://sourceforge.net/p/sevenzip/)
+# bit7z_clone
+# 7-Zip_clone
